@@ -5,6 +5,8 @@ showing how to us Gut and Github
 
 ## Introduction
 
+This is an example.
+
 ## Purpose
 
 ## How to Contribute
