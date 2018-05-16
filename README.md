@@ -18,3 +18,5 @@ This is more text....
 ## Deployment
 
 2018 Git.Training
+
+Please fork this repository and issue pull request for review!
