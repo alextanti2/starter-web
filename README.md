@@ -23,3 +23,4 @@ Please fork this repository and issue pull request for review!
 
 Some more text....
 more changes from myfeature branch too
+All rights reserved.
