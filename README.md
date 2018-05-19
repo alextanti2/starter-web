@@ -2,6 +2,7 @@
 
 This is a simple website project
 showing how to us Gut and Github
+More updates...
 
 ## Introduction
 
